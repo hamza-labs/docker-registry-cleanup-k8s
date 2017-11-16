@@ -1,2 +1,9 @@
-# docker-registry-cleanup-k8s
-How can you cleanup your private docker registry unused images in k8s
+This tool help you to clean-up your private docker-registry by selecting unused images in kubernetes.
+
+### Table of Centents
+
+- [What's Problem to solve](#)
+- [](#)
+- [](#)
+- [](#)
+
