@@ -10,9 +10,24 @@
 
 - This tool help you to clean-up your private docker-registry by selecting unused images in kubernetes.
 
-### Script Algorithm 
+### Usefuls command lines  
 
-- 
+```
+kubectl get pods --all-namespaces -o jsonpath="{..image}" |\
+                                                     tr -s '[[:space:]]' '\n' |\
+                                                     cut -d "/" -f2,3 | sort -u >> /tmp/k8s/k8s.images
+```
+
+```
+your_docker_registry_client list tags $your_repo --registry=your_registry_url | sort -u >> /tmp/your_docker_registry_name/dr.images
+
+```
+
+```
+your_docker_registry_client delete $your_repo $your_reference --registry=your_registry_url | sort -u >> /tmp/your_docker_registry_name/dr.images
+
+```
+
 
 ### Sources 
 
