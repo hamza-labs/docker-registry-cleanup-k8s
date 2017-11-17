@@ -1,6 +1,4 @@
-<p align="center"> 
 <img src="./img/cleanup-docker.png" width="400">
-</p>
 
 ### Table of Contents
 
