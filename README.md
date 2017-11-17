@@ -1,4 +1,4 @@
-<img src="./img/cleanup-docker.png" width="500">
+<img src="./img/cleanup-docker.png" width="400">
 
 - This tool help you to clean-up your private docker-registry by selecting unused images in kubernetes.
 
