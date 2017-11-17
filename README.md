@@ -1,6 +1,6 @@
 This tool help you to clean-up your private docker-registry by selecting unused images in kubernetes.
 
-![](./img/cleanup-docker.png =250x)
+<img src="https://github.com/favicon.ico" width="48">
 
 ### Table of Contents
 
