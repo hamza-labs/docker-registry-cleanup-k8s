@@ -2,9 +2,9 @@ This tool help you to clean-up your private docker-registry by selecting unused 
 
 ### Table of Contents
 
-- [What Problem to solve](#What-Problems-to-solve)
-- [Script Algorithm](#Script-Algorithm)
-- [Sources](#Sources)
+- [What Problem to solve](#what-problems-to-solve)
+- [Script Algorithm](#script-algorithm)
+- [Sources](#sources)
 
 #### What Problems to solve 
 
