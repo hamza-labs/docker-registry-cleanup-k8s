@@ -6,15 +6,15 @@ This tool help you to clean-up your private docker-registry by selecting unused 
 - [Script Algorithm](#script-algorithm)
 - [Sources](#sources)
 
-#### What Problems to solve 
+### What Problems to solve 
 
 - 
 
-#### Script Algorithm 
+### Script Algorithm 
 
 - 
 
-#### Sources 
+### Sources 
 
 - https://github.com/sky-uk/cleanup-docker-registry
 - https://hub.docker.com/r/unbrokendome/docker-registry-cleanup/~/dockerfile/
