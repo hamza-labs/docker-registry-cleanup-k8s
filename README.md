@@ -1,9 +1,6 @@
-### This tool help you to clean-up your private docker-registry by selecting unused images in kubernetes.
-
 <p align="center"> 
 <img src="./img/cleanup-docker.png" width="400">
 </p>
-
 
 ### Table of Contents
 
@@ -13,7 +10,7 @@
 
 ### What Problems to solve 
 
-- 
+- This tool help you to clean-up your private docker-registry by selecting unused images in kubernetes.
 
 ### Script Algorithm 
 
