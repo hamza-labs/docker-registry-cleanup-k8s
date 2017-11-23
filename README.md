@@ -3,14 +3,14 @@
 ### Table of Contents
 
 - [What Problem to solve](#what-problems-to-solve)
-- [Script Algorithm](#script-algorithm)
+- [Useful command lines](#useful-command-lines)
 - [Sources](#sources)
 
 ### What Problems to solve 
 
 - This tool help you to clean-up your private docker-registry by selecting unused images in kubernetes.
 
-### Usefuls command lines  
+### Useful command lines  
 
 ```
 kubectl get pods --all-namespaces -o jsonpath="{..image}" |\
